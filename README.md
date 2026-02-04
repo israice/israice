@@ -7,10 +7,10 @@
 </tr>
 <tr>
 <td width="200"><img width="200" src="https://placehold.co/200x200/0D1117/6AD3F7?text=WebView"/></td>
-<td><b><a href="https://github.com/israice/Android-WebView-Auto-Builder">Android-WebView-Auto-Builder</a></b><br/>Automated tool for building Android WebView applications. Quickly converts any website into a native Android app.</td>
+<td><b><a href="https://github.com/israice/Android-WebView-Auto-Builder">Turn any URL into an APK in seconds. Zero Setup. No Android Studio. No Java installation required. No headaches. Just run the script, and get your APK.</td>
 </tr>
 <tr>
 <td width="200"><img width="200" src="https://placehold.co/200x200/0D1117/6AD3F7?text=Game"/></td>
-<td><b><a href="https://github.com/israice/CrazyWalk-Game">CrazyWalk-Game</a></b><br/>Fun browser-based game with unique walking mechanics. A casual game project showcasing game development skills.</td>
+<td><b><a href="https://github.com/israice/CrazyWalk-Game">CrazyWalk is a geolocation-based exploration and territory capture game. Navigate real-world streets, collect items, and complete polygons to expand your map.</td>
 </tr>
 </table>
