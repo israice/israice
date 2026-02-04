@@ -292,13 +292,17 @@ fields_of_interest:
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> **Featured Projects**
 
 <p align="center">
-  <!-- Project Card 1 -->
-  <a href="https://github.com/israice/PROJECT_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=israice&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+  <a href="https://github.com/israice/HTML-LiveStream-TV-Wall">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=israice&repo=HTML-LiveStream-TV-Wall&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
-  <!-- Project Card 2 -->
-  <a href="https://github.com/israice/PROJECT_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=israice&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+  <a href="https://github.com/israice/Android-WebView-Auto-Builder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=israice&repo=Android-WebView-Auto-Builder&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  </a>
+
+  <a href="https://github.com/israice/CrazyWalk-Game">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=israice&repo=CrazyWalk-Game&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   </a>
 </p>
 
