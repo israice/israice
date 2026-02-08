@@ -1,8 +1,9 @@
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=israice&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
 
-### Hi, I'm israice
-
-I build tools that just work — no setup, no accounts, no friction.
+<h3 align="center">Hi, I'm israice</h3>
+<p align="center">I build tools that just work — no setup, no accounts, no friction.</p>
 
 ---
 
